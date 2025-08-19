@@ -1,0 +1,3 @@
+https://miro.com/app/board/uXjVLh2gnas=/  - Json Rest API
+
+https://miro.com/app/board/uXjVLj5YZr8=/  - Проект IoT-системы для холодильных установок
