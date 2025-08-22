@@ -576,6 +576,10 @@ section {
 	height: 300px;
 }
 
+.portfolio__fancybox__hidden{
+	display: none;
+}
+
 .portfolio__img {
 	width: 100%;
 	height: 300px;
